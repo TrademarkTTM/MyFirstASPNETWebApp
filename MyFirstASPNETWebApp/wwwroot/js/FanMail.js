@@ -10,4 +10,6 @@ $("#btnSend").click(function () {
         ", Message: " + $("#txtMessage").val());
 
     $("#picGanderson").fadeToggle();
+
+    alert("Hello");
 }) 
